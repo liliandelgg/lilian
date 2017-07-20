@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<head> <title> LILIAN </title> </head>
+<body>
+<h1>LILIAN</h1>
+<img src="
+<p> Short biography: I am currently a junior at Miami Palmetto Senior High School. My experience at Girls Who Code has been nothing but great and cannot wait to continue the weeks. I plan on attending college next year and want to pursue a career in engineering. </p>
+<h2>INFO</h1>
+<ul>
+    <li>FULL NAME: LILIAN DELGADO</li>
+	<li>BIRTHDAY: 07/29/00</li>
+	<li>SIBLINGS: ONE (LITTLE BROTHER)</li>
+	<li>FAVORITE COLOR: BLUE</li>
+</ul>
+
+</body>

@@ -1,0 +1,17 @@
+h1 {
+     color:white;#ffffff;
+	 font-family: HelveticaNeue-Light;
+}
+p {
+	color:white;
+	font-family: HelveticaNeue-Light;
+}
+ul {
+	color:white;#ffffff;
+	font-family: OCR A Std, monospace;
+	font-style: italic
+}
+.btn_scratch {
+	width:"1000px";
+	height:"1000px"
+}
